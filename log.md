@@ -16,3 +16,9 @@
 **Thoughts** : This is not my first day of this challenge, It should've been day 60 but I missed a day of coding and even though the rules say that it doesn't mean that I failed the challenge, I wanted to start fresh so I can commit to gitHub everyday. 
 
 **Link to work:** https://github.com/Swishyfishie/constructors_and_this_keyword
+
+### Day 2: 18/04/2019
+
+**Today's progress and thoughts**: Haven't worked on JavaScript today. Attempted a few codewars challenges but without much success. I've looked for the solutions online and learnt a few ways of solving problems. Got into FrontEnd Masters' free course and that was quite nice. I feel like I'm going to subscribe to them as soon as I finish with Traversy Media's JavaScript course. Also did a small basic project just to brush up my html and css skills.
+
+**Link to work:** https://github.com/Swishyfishie/FEM_HTML_CSS_project
