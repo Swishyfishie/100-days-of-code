@@ -22,3 +22,7 @@
 **Today's progress and thoughts**: Haven't worked on JavaScript today. Attempted a few codewars challenges but without much success. I've looked for the solutions online and learnt a few ways of solving problems. Got into FrontEnd Masters' free course and that was quite nice. I feel like I'm going to subscribe to them as soon as I finish with Traversy Media's JavaScript course. Also did a small basic project just to brush up my html and css skills.
 
 **Link to work:** https://github.com/Swishyfishie/FEM_HTML_CSS_project
+
+### Day 3: 19/04/2019
+
+**Today's progress and thoughts**: Today I followed Front End Masters couses. I followed examples from Traversy Media's course and worked in console. No projects today. 
