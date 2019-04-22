@@ -32,3 +32,8 @@
 **Today's progress and thoughts**: I have learnt about prototypes in JS and played a bit with bootstrap. Will document myself more. Questions like "When will I understand?" "Am I doing this wrong?" "Is this for me?" are permanent in one's head.The trick is to let them go as you'd let any kind of doubt. As long as I'm doing something, there's only progress, no matter how fast.
 
 **Link to work** : https://github.com/Swishyfishie/JS_Prototypes
+
+### Day 5-6: 21-22/04/2019
+
+**Today's progress and thoughts**: Did some bootstrap styling and read documentation/experimented with styles. Did a small exercise where I found a triangle's area with given values. Was quite busy these two days but tomorrow I'll be back to normal and I can code more.
+
